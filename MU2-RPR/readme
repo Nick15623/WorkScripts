@@ -1,0 +1,16 @@
+
+###########################
+  Created on July 8, 2019
+      by Nick Ramsey
+###########################
+
+## Requirements ##
+Windows OS System
+
+## Description ##
+This is a batch file that creates a script for Windows DiskPart command. It allow the user to choose a Disk, then a 
+Disk Partition and then removes the Disk Partition selected. It allows you to use it for any partition, however this 
+was specifically used for removing Recovery Partitions.
+
+## Notes ##
+Usually it is better that the .bat be ran as Administrator in order to gain access to the disks.
