@@ -1,0 +1,17 @@
+
+###########################
+  Created on May 30, 2019
+      by Nick Ramsey
+###########################
+
+## Requirements ##
+Python 3.0 or higher
+
+## Description ##
+This is a python script that prompts the user for serial numbers and inventory numbers. It will then append the numbers
+collected to a created .csv file that you will be asked to name. The .csv file can then be added to excel inventories,
+uploading, or whatever you may need the .csv file for. 
+
+## Note ##
+This does work with scanners as well. We specifically use Inateck blutooth scanners, however, I am sure most scanners
+should be able to be used.
